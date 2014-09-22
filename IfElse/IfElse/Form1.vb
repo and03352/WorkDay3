@@ -21,6 +21,7 @@ Public Class Form1
             Return
         End If
 
+
         Dim result As String
 
         If num1 > num2 Then
